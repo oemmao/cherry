@@ -1,0 +1,127 @@
+.all_width {
+/*	width: 1000px;*/
+	position: relative;
+	margin: 0 auto;
+}	
+/*메인메뉴바*/
+.mainBar {
+	padding: 0 0 20px 0;
+}
+/*nav*/
+
+/*section article*/
+.article_line {
+	border-left: solid 1px #ddd;
+}
+/*이미지*/
+.img_info {
+	width: 100%;
+}
+/*게시판 리스트*/
+.list_size {
+/*	height: 300px;*/
+/*	background: green;*/
+}
+.writing_size {
+/*	width: 100%;*/
+	height: 40px;
+/*	background: green;*/
+}
+.page_center {
+/*	width: 21%;*/
+	width: 170px;
+	display: block;
+	margin: 0 auto;
+}
+/*게시글 읽기*/
+.read_table {
+	width: 100%;
+/*	height: 300px;*/
+	border: solid 1px #1E90FF;
+/*	background: green;*/
+}
+.read_table_size {
+	width: 95%;
+	margin: 0 auto; 
+}
+.read_table_tr_size {
+	height: 50px;
+	border-bottom: solid 2px #14D3FF;
+}
+.read_table_id_size {
+	height: 50px;
+}
+.read_table_font {
+	font-weight: bold;
+}
+.read_table_text {
+	padding: 30px 15px 15px;
+}
+/*게시글 댓글 쓰기*/
+.board_reply {
+	width: 100%;
+	height: 100px;
+	margin: 10px 0 0 0;
+	border: solid 1px #FF7A85;
+}
+.reply_table_size {
+	width: 95%;
+	margin: 0 auto; 
+}
+.reply_text_size {
+	width: 100%;
+	
+}
+.reply_table_tr_size {
+	height: 95%;
+}
+.reply_table_id_size {
+	height: 100px;
+}
+
+.btn-reply_color {
+    color: #fff;
+    background-color: #FF7493;
+    border-color: #FF5675;
+}
+/*.btn-size {*/
+/*    padding: 20px 30px;*/
+/*    font-size: 18px;*/
+/*    line-height: 1.3333333;*/
+/*    border-radius: 6px;*/
+/*}*/
+
+/*게시글 댓글 리스트*/
+.board_reply_list {
+	width: 100%;
+/*	height: 100px;*/
+	margin: 10px 0 0 0;
+	padding: 10px;
+	border: solid 1px #9400D3;
+}
+.board_reply_list ul {
+	list-style-type: none;
+	padding: 10px;
+}
+
+.board_reply_list ul li {
+	border-bottom: solid 1px #c98cc9;
+}
+.bnt_group {
+	margin-top: 20px;
+}
+.cmt_date_size {
+	font-size: 13px;
+}
+.cmt_page_center {
+/*	width: 21%;*/
+	width: 170px;
+	display: block;
+	margin: 0 auto;
+}
+.board_reply_page {
+	width: 100%;
+	height: 30px;
+	margin: 10px 0 0 0;
+/*	border: solid 1px #9400D3;*/
+}

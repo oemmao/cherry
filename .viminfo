@@ -1,0 +1,163 @@
+# ÀÌ viminfo ÆÄÀÏÀº ºöÀÌ ¸¸µç °ÍÀÔ´Ï´Ù Vim 7.4.
+# Á¶½É¸¸ ÇÑ´Ù¸é °íÄ¥ ¼öµµ ÀÖ½À´Ï´Ù!
+
+# ÀÌ ÆÄÀÏÀÌ ÀúÀåµÇ¾úÀ» ¶§ÀÇ 'encoding'ÀÇ °ª
+*encoding=euc-kr
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/ì„¤
+
+# ¸í·É ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+:q!
+:wq
+:w
+::`
+:/ì„¤
+
+# Ã£À» ¹®ÀÚ¿­ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+? ì„¤
+
+# Ç¥Çö È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ÀÔ·Â ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ÀÔ·Â ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ·¹Áö½ºÅÍ:
+
+# ÆÄÀÏ ¸¶Å©:
+'0  24  0  ~/www/loginApp/memberLeave.php
+'1  28  0  ~/www/boardApp/boardIndex.php
+'2  63  16  ~/www/index.htm
+'3  104  52  ~/www/index.htm
+'4  105  46  ~/www/index.htm
+'5  1  0  /etc/loscale.conf
+'6  3  0  /etc/locale.conf
+'7  1  0  /etc/locale.conf
+
+# Á¡ÇÁ¸ñ·Ï (»õ°ÍÀÌ ¸ÕÀú):
+-'  24  0  ~/www/loginApp/memberLeave.php
+-'  1  0  ~/www/loginApp/memberLeave.php
+-'  28  0  ~/www/boardApp/boardIndex.php
+-'  1  0  ~/www/boardApp/boardIndex.php
+-'  63  16  ~/www/index.htm
+-'  104  16  ~/www/index.htm
+-'  105  16  ~/www/index.htm
+-'  1  0  ~/www/index.htm
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  3  0  /etc/locale.conf
+-'  1  0  /etc/locale.conf
+-'  1  0  /etc/loscale.conf
+
+# ÆÄÀÏ³»ÀÇ ¸¶Å© È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ ¼ø):
+
+> ~/www/loginApp/memberLeave.php
+	"	24	0
+
+> ~/www/boardApp/boardIndex.php
+	"	28	0
+
+> ~/www/index.htm
+	"	63	16
+	^	104	53
+	.	104	52
+	+	104	52
+
+> /etc/loscale.conf
+	"	1	0
+
+> /etc/locale.conf
+	"	3	0
+	^	3	0
+	.	2	18
+	+	2	18
