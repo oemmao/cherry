@@ -25,6 +25,7 @@ class Board extends CI_Controller {
 		print_r($_FILES);
 
 		$result = array();
+		$result['result'] = "true"; 
 		echo json_encode($result);
 	}
 
